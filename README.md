@@ -35,7 +35,7 @@ using SqlClientProcedure;
 
 Create a directory to put the Procedure SQL file in the project. Then create a sub-directory for each database, for example ``UA-CMS`` as below. Then copy Stored Procedure from database into a text file with ***.sql** extension, for example ``cms_AddUser.sql`` below.
 
-![image-20220105124605674](C:\Users\haimi.yahya\AppData\Roaming\Typora\typora-user-images\image-20220105124605674.png)
+![image-20220105124605674](image-20220105124605674.png)
 
 Below the sample of the **sql** file content:
 
